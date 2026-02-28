@@ -13,20 +13,16 @@ The dataset consists of multiple CSV files covering a global network of **custom
 
 The primary objectives of this analysis are to:
 
-* 
-**Understand Purchasing Trends:** Analyze customer behavior and regional sales.
+* **Understand Purchasing Trends:** Analyze customer behavior and regional sales.
 
 
-* 
-**Identify Hits & Misses:** Find the most and least popular music genres, tracks, and artists.
+* **Identify Hits & Misses:** Find the most and least popular music genres, tracks, and artists.
 
 
-* 
-**Revenue Tracking:** Analyze trends across time (monthly/quarterly) and product categories.
+* **Revenue Tracking:** Analyze trends across time (monthly/quarterly) and product categories.
 
 
-* 
-**Operational Efficiency:** Evaluate the performance of sales representatives and identify growth opportunities in underutilized content.
+* **Operational Efficiency:** Evaluate the performance of sales representatives and identify growth opportunities in underutilized content.
 
 
 
@@ -49,20 +45,16 @@ The Core Tables:
 
 ## 🛠️ Tools & Technologies
 
-* 
-**SQL (PostgreSQL / MySQL / SQLite):** Core analytical engine for data processing.
+* **SQL (PostgreSQL / MySQL / SQLite):** Core analytical engine for data processing.
 
 
-* 
-**CSV Datasets:** Raw data source for all entities.
+* **CSV Datasets:** Raw data source for all entities.
 
 
-* 
-**Advanced SQL:** CTEs, Window Functions, and Subqueries for deep-dive analytics.
+* **Advanced SQL:** CTEs, Window Functions, and Subqueries for deep-dive analytics.
 
 
-* 
-**Optional:** Tableau or Power BI for creating visual KPI dashboards.
+* **Optional:** Tableau or Power BI for creating visual KPI dashboards.
 
 
 
@@ -70,20 +62,16 @@ The Core Tables:
 
 ## 📈 Key Deliverables
 
-1. 
-**Database Setup:** Design and implementation of the relational schema.
+1. **Database Setup:** Design and implementation of the relational schema.
 
 
-2. 
-**Exploratory Analysis:** SQL queries summarizing revenue, engagement, and popularity.
+2. **Exploratory Analysis:** SQL queries summarizing revenue, engagement, and popularity.
 
 
-3. 
-**Advanced Analytics:** Ranking products and segmenting users by lifetime value.
+3. **Advanced Analytics:** Ranking products and segmenting users by lifetime value.
 
 
-4. 
-**Final Report:** A structured summary with recommendations for marketing and operations teams.
+4. **Final Report:** A structured summary with recommendations for marketing and operations teams.
 
 
 
